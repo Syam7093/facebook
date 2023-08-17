@@ -9,6 +9,7 @@ const randomFunction = (type) => {
         }
     else {
         console.log('this is fasle condition')
+        console.log("this is sai")
         }
 }
 
